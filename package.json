@@ -2,9 +2,10 @@
   "name": "masterEJS",
   "version": "1.0.0",
   "description": "Master EJS template view engine",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    
   },
   "keywords": [],
   "author": "https://medium.com/@pkoulianos",
